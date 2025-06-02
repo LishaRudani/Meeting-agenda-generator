@@ -17,9 +17,9 @@ This application allows users to input a meeting title, list of topics, and meet
 
 ---
 
-## 🛠️ Project Setup Instructions
+## Project Setup Instructions
 
-### ✅ 1. Clone or Upload the Project
+###  Clone or Upload the Project
 
 ```bash
 git clone https://github.com/LishaRudani/meeting-agenda-generator.git
